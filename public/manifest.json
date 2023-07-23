@@ -1,6 +1,6 @@
 {
-  "short_name": "Resume Maker",
-  "name": "Resume Maker",
+  "short_name": "Pro Passport",
+  "name": "Pro Passport",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,7 @@
   ],
   "id": "/",
   "start_url": "/",
+  "description": "Elevate your resume with Resume Maker & unlock endless career possibilities",
   "scope": "/",
   "start_url": ".",
   "display": "fullscreen",

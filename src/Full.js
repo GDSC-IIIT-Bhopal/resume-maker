@@ -149,10 +149,6 @@ class FullFun extends React.Component {
         ["Skill Sub-Category", "Skill-1, Skill-2, Skill-3"],
         ["Skill Sub-Category", "Skill-1, Skill-2, Skill-3"]
       ],
-      achievements: [
-        "Achievement-1",
-        "Achievement-2"
-      ],
       lachievements: [
         ["Skill Sub-Category", "Skill-1, Skill-2, Skill-3"],
         ["Skill Sub-Category", "Skill-1, Skill-2, Skill-3"],
@@ -299,6 +295,8 @@ class FullFun extends React.Component {
     }
     this.setData(prevState);
   }
+
+
   setProjects = (e) => {
     e.preventDefault();
     var prevState = this.state;
