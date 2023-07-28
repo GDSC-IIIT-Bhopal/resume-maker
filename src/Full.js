@@ -506,6 +506,7 @@ class FullFun extends React.Component {
                 <ul>
                   <li>disable Headers and footers</li>
                   <li>enable Background graphics</li>
+                  <li>Add links with https:// or http://</li>
                 </ul>
                 <br />
                 <h1>Advised to save as text file for Custom Upload, Bard & Chat GPT.</h1>
