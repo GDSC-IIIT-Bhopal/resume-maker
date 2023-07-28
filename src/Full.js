@@ -416,7 +416,7 @@ class FullFun extends React.Component {
   newForAchi = (e) => {
     e.preventDefault();
     var prevState = this.state;
-    prevState.achievements.unshift("");
+    // prevState.achievements.unshift("");
     prevState.lachievements.unshift(["", ""]);
     this.setData(prevState);
   }
