@@ -2,7 +2,7 @@
   "name": "resume-maker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://resume.dsciiitb.tech/",
+  "homepage": "https://gdsc-iiit-bhopal.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
